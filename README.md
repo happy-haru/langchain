@@ -38,7 +38,7 @@
 
 ---
 
-## 📚 참고 리부
+## 📚 참고 리뷰
 
 * [LangChain 공식 문서](https://docs.langchain.com/)
 * [LangChain GitHub](https://github.com/langchain-ai/langchain)
